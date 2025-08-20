@@ -1,13 +1,17 @@
 # data-mining-group-33
+
 ## assignment on Moodle
 
 ### data minning assignment
 
 # Business Understanding (Draft for JoNAS Project)
+
 ## Problem Statement
 
 The Journal of Natural Sciences (JoNAS), hosted by the University of Zambia, publishes a wide range of research articles across different disciplines of natural sciences. Currently, articles are archived online with minimal metadata, making it difficult for researchers, students, and librarians to quickly identify which field (e.g., Biology, Chemistry, Environmental Science, Physics, Agriculture) a paper belongs to. This lack of structured categorization reduces discoverability, hinders cross-disciplinary research, and increases the workload of editors and readers who must manually scan articles.
 We aim to build a system that automatically classifies articles into scientific fields based on their content, improving discoverability and supporting efficient indexing for the JoNAS archive.
+
+Currently, the lack of structured metadata in JoNAS articles limits visibility outside local academic circles. Implementing a classification system will organize content and make it more accessible internationally, potentially increasing citations and fostering collaborations. Additionally, this structured data can help identify research gaps across disciplines and support long-term monitoring of Zambian research output.
 
 ## Business Objectives
 
